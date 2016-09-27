@@ -27,12 +27,7 @@
         "psr-4": {
             "App\\": "app/"
         }
-    },
-    "autoload-dev": {
-        "classmap": [
-            "tests/TestCase.php"
-        ]
-    },
+    },    
     "scripts": {
         "post-root-package-install": [
             "php -r \"copy('.env.example', '.env');\""
