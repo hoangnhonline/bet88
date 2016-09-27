@@ -1,0 +1,26 @@
+=========================================================================
+DATABASE INFOMATION
+=========================================================================
+
+
+=========================================================================
+Database: agacamera_c_ffc7 - Created on: 27/07/2016 when add agacamera.com to VPS
+=========================================================================
+Data name: agacamera_c_ffc7
+Username: agacameracffc7
+password: aa3ccd558577cbd9
+
+=========================================================================
+Database: creditcarda_dd26 - Created on: 03/09/2016 when add creditcardauto.top to VPS
+=========================================================================
+Data name: creditcarda_dd26
+Username: creditcarddd26
+password: 692dce2de32e25bc
+
+=========================================================================
+Database: gameduaxe_t_b134 - Created on: 14/09/2016 when add gameduaxe.top to VPS
+=========================================================================
+Data name: gameduaxe_t_b134
+Username: gameduaxetb134
+password: 6d46ab48d8c5806a
+
